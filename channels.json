@@ -1,0 +1,932 @@
+[
+  {
+    "stream": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "icon": "https://i.imgur.com/xbkYDeg.png",
+    "name": "1001 Noites (720p) [Not 24/7]",
+    "number": 1
+  },
+  {
+    "stream": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "icon": "https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png",
+    "name": "AgroBrasil TV (720p) [Not 24/7]",
+    "number": 2
+  },
+  {
+    "stream": "https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8",
+    "icon": "https://i.imgur.com/sFcOZeo.png",
+    "name": "Agromais (1080p) [Geo-blocked]",
+    "number": 3
+  },
+  {
+    "stream": "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
+    "name": "Al Jazeera English (1080p)",
+    "number": 4
+  },
+  {
+    "stream": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
+    "icon": "https://i.imgur.com/wULpnYR.png",
+    "name": "All Sports (720p)",
+    "number": 5
+  },
+  {
+    "stream": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+    "icon": "https://i.imgur.com/rmAm6UE.png",
+    "name": "Anime TV (360p) [Not 24/7]",
+    "number": 6
+  },
+  {
+    "stream": "https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",
+    "name": "Baby TV Asia (Vietnamese dub) (1080p)",
+    "number": 7
+  },
+  {
+    "stream": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8",
+    "icon": "https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png",
+    "name": "Bahrain International (720p) [Not 24/7]",
+    "number": 8
+  },
+  {
+    "stream": "https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8",
+    "icon": "https://imgur.com/HnL2uBA.png",
+    "name": "Band (1080p) [Geo-blocked]",
+    "number": 9
+  },
+  {
+    "stream": "https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8",
+    "icon": "",
+    "name": "Bandnews (720p) [Geo-blocked]",
+    "number": 10
+  },
+  {
+    "stream": "https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8",
+    "icon": "https://i.imgur.com/rPzH88J.png",
+    "name": "BBC News HD (720p) [Geo-blocked]",
+    "number": 11
+  },
+  {
+    "stream": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png",
+    "name": "BeritaSatu World (720p) [Not 24/7]",
+    "number": 12
+  },
+  {
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoja0MNI4SIvXqJR3szbSfw/live",
+    "icon": "",
+    "name": "BM&C [Not 24/7]",
+    "number": 13
+  },
+  {
+    "stream": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8",
+    "icon": "https://i.imgur.com/1Chamk9.png",
+    "name": "BTV World (720p) [Not 24/7]",
+    "number": 14
+  },
+  {
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "icon": "https://i.imgur.com/9SjoGWj.png",
+    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+    "number": 15
+  },
+  {
+    "stream": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8",
+    "icon": "https://i.imgur.com/MXhHP6U.png",
+    "name": "Canal Saúde (360p) [Not 24/7]",
+    "number": 16
+  },
+  {
+    "stream": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8",
+    "icon": "https://i.imgur.com/qiVfsfB.png",
+    "name": "Catve2 (720p)",
+    "number": 17
+  },
+  {
+    "stream": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8",
+    "icon": "https://i.imgur.com/w89yw36.png",
+    "name": "Catve FM (720p) [Not 24/7]",
+    "number": 18
+  },
+  {
+    "stream": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+    "icon": "https://i.imgur.com/4m7Iazm.png",
+    "name": "Catve Master TV (720p) [Not 24/7]",
+    "number": 19
+  },
+  {
+    "stream": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
+    "icon": "https://i.imgur.com/FZwHq8k.png",
+    "name": "CBN Rio (720p)",
+    "number": 20
+  },
+  {
+    "stream": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8",
+    "icon": "https://i.imgur.com/FZwHq8k.png",
+    "name": "CBN São Paulo (720p)",
+    "number": 21
+  },
+  {
+    "stream": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+    "name": "CGTN (576p)",
+    "number": 22
+  },
+  {
+    "stream": "http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",
+    "name": "CGTN Documentary (576p)",
+    "number": 23
+  },
+  {
+    "stream": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
+    "icon": "https://i.imgur.com/M6FFkc3.png",
+    "name": "Classic Arts Showcase",
+    "number": 24
+  },
+  {
+    "stream": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png",
+    "name": "CNA International (1080p)",
+    "number": 25
+  },
+  {
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png",
+    "name": "CNN Brasil (1080p) [Not 24/7]",
+    "number": 26
+  },
+  {
+    "stream": "http://209.91.213.10:8088/play/a014",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+    "name": "CNN en Español",
+    "number": 27
+  },
+  {
+    "stream": "https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8",
+    "icon": "https://i.imgur.com/c8ztQnF.png",
+    "name": "COM Brasil (720p) [Not 24/7]",
+    "number": 28
+  },
+  {
+    "stream": "http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8",
+    "icon": "https://i.imgur.com/5jPEI5c.png",
+    "name": "Cultura Pará (480p) [Not 24/7]",
+    "number": 29
+  },
+  {
+    "stream": "http://wowza4.catve.com.br:1935/live/livestream/media.m3u8",
+    "icon": "https://cdn.mitvstatic.com/channels/br_cultura_m.png",
+    "name": "Cultura PR Catve (720p)",
+    "number": 30
+  },
+  {
+    "stream": "https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8",
+    "icon": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true",
+    "name": "Dark Matter TV Brazil (720p)",
+    "number": 31
+  },
+  {
+    "stream": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "icon": "https://i.imgur.com/A1xzjOI.png",
+    "name": "DW English (1080p)",
+    "number": 32
+  },
+  {
+    "stream": "https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",
+    "name": "ERT World (720p)",
+    "number": 33
+  },
+  {
+    "stream": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "icon": "https://i.imgur.com/UDFBYpN.png",
+    "name": "Euro Indie Music Chart TV (360p)",
+    "number": 34
+  },
+  {
+    "stream": "https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8",
+    "icon": "https://i.imgur.com/8t9mdg9.png",
+    "name": "Euronews en Español (720p)",
+    "number": 35
+  },
+  {
+    "stream": "https://euronews.alteox.app/hls/de_stream.m3u8",
+    "icon": "https://i.imgur.com/8t9mdg9.png",
+    "name": "Euronews German",
+    "number": 36
+  },
+  {
+    "stream": "https://euronews.alteox.app/hls/it_stream.m3u8",
+    "icon": "https://i.imgur.com/8t9mdg9.png",
+    "name": "Euronews Italian",
+    "number": 37
+  },
+  {
+    "stream": "https://euronews.alteox.app/hls/pt_stream.m3u8",
+    "icon": "https://i.imgur.com/8t9mdg9.png",
+    "name": "Euronews Portuguese",
+    "number": 38
+  },
+  {
+    "stream": "https://euronews.alteox.app/hls/ru_stream.m3u8",
+    "icon": "https://i.imgur.com/8t9mdg9.png",
+    "name": "Euronews Russian",
+    "number": 39
+  },
+  {
+    "stream": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "icon": "https://i.imgur.com/4lnSlOZ.png",
+    "name": "Fonte TV (1080p) [Not 24/7]",
+    "number": 40
+  },
+  {
+    "stream": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+    "name": "France 24 English (1080p)",
+    "number": 41
+  },
+  {
+    "stream": "https://tv.unisc.br/hls/test.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png",
+    "name": "Futura (540p) [Not 24/7]",
+    "number": 42
+  },
+  {
+    "stream": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8",
+    "icon": "https://i.imgur.com/ZVO8GVI.png",
+    "name": "Ghost TV (712p) [Not 24/7]",
+    "number": 43
+  },
+  {
+    "stream": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "icon": "https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png",
+    "name": "Gospel Movie TV (360p)",
+    "number": 44
+  },
+  {
+    "stream": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+    "icon": "https://i.imgur.com/D15qpCm.png",
+    "name": "IMPD TV (720p)",
+    "number": 45
+  },
+  {
+    "stream": "https://insighttv-vizio.amagi.tv/playlist.m3u8",
+    "icon": "https://i.imgur.com/7xmaoL0.png",
+    "name": "Insight TV (1080p)",
+    "number": 46
+  },
+  {
+    "stream": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
+    "name": "Jovem Pan News (1080p) [Not 24/7]",
+    "number": 47
+  },
+  {
+    "stream": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png",
+    "name": "KBS World (720p)",
+    "number": 48
+  },
+  {
+    "stream": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
+    "icon": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+    "name": "KpopTV Play (720p) [Not 24/7]",
+    "number": 49
+  },
+  {
+    "stream": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "icon": "https://i.imgur.com/NTCI3lf.png",
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "number": 50
+  },
+  {
+    "stream": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "icon": "https://i.imgur.com/TDEDNLK.png",
+    "name": "MKK Web TV (720p) [Not 24/7]",
+    "number": 51
+  },
+  {
+    "stream": "https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8",
+    "icon": "https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png",
+    "name": "MNB world",
+    "number": 52
+  },
+  {
+    "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "icon": "https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",
+    "name": "MyTime movie network Brazil (720p)",
+    "number": 53
+  },
+  {
+    "stream": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png",
+    "name": "NASA TV (720p)",
+    "number": 54
+  },
+  {
+    "stream": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+    "name": "NHK World Japan (1080p)",
+    "number": 55
+  },
+  {
+    "stream": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+    "icon": "https://i.imgur.com/IK3F9Uq.png",
+    "name": "Nova Era TV (1080p) [Not 24/7]",
+    "number": 56
+  },
+  {
+    "stream": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+    "icon": "https://i.imgur.com/exdDHml.png",
+    "name": "Novo Tempo (720p)",
+    "number": 57
+  },
+  {
+    "stream": "https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8",
+    "icon": "https://i.imgur.com/01KEiEp.png",
+    "name": "Perú Channel (720p) [Not 24/7]",
+    "number": 58
+  },
+  {
+    "stream": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=",
+    "icon": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",
+    "name": "Pluto TV Classic Nick (Brazil) (240p)",
+    "number": 59
+  },
+  {
+    "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "icon": "https://i.imgur.com/8t9mdg9.png",
+    "name": "Pluto TV Euronews (720p) [Not 24/7]",
+    "number": 60
+  },
+  {
+    "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "icon": "https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",
+    "name": "Pluto TV Filmes Suspense (720p)",
+    "number": 61
+  },
+  {
+    "stream": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "icon": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png",
+    "name": "Pluto TV Nick Jr. Club (720p)",
+    "number": 62
+  },
+  {
+    "stream": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",
+    "name": "PUC TV Goiás (326p) [Not 24/7]",
+    "number": 63
+  },
+  {
+    "stream": "https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png",
+    "name": "Record News (540p)",
+    "number": 64
+  },
+  {
+    "stream": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/bc/Logotipo_da_RecordTV_Bel%C3%A9m.png/512px-Logotipo_da_RecordTV_Bel%C3%A9m.png",
+    "name": "Record TV Belem (720p) [Geo-blocked]",
+    "number": 65
+  },
+  {
+    "stream": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/Logotipo_da_RecordTV_Bras%C3%ADlia.png/512px-Logotipo_da_RecordTV_Bras%C3%ADlia.png",
+    "name": "Record TV Brasilia (720p) [Geo-blocked]",
+    "number": 66
+  },
+  {
+    "stream": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8",
+    "icon": "",
+    "name": "Record TV Goias (720p) [Geo-blocked]",
+    "number": 67
+  },
+  {
+    "stream": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png",
+    "name": "Record TV Itapoan (720p) [Geo-blocked]",
+    "number": 68
+  },
+  {
+    "stream": "https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Logotipo_da_RecordTV_Minas.png/512px-Logotipo_da_RecordTV_Minas.png",
+    "name": "Record TV Minas (720p) [Geo-blocked]",
+    "number": 69
+  },
+  {
+    "stream": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png",
+    "name": "Record TV Rio (720p) [Geo-blocked]",
+    "number": 70
+  },
+  {
+    "stream": "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/3c/Logotipo_da_RecordTV_RS.png/512px-Logotipo_da_RecordTV_RS.png",
+    "name": "Record TV RS (720p) [Geo-blocked]",
+    "number": 71
+  },
+  {
+    "stream": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png",
+    "name": "Record TV SP (720p) [Geo-blocked]",
+    "number": 72
+  },
+  {
+    "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "icon": "https://i.imgur.com/7NeBmWX.jpg",
+    "name": "Red Bull TV (1080p)",
+    "number": 73
+  },
+  {
+    "stream": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "icon": "https://i.imgur.com/iiJufN2.png",
+    "name": "Rede Brasil de Comunicação (720p) [Not 24/7]",
+    "number": 74
+  },
+  {
+    "stream": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8",
+    "icon": "https://i.imgur.com/79365P2.png",
+    "name": "Rede CNT (Curitiba) (180p) [Not 24/7]",
+    "number": 75
+  },
+  {
+    "stream": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8",
+    "icon": "https://i.imgur.com/Og627cb.png",
+    "name": "Rede CNT (São Paulo) (360p) [Not 24/7]",
+    "number": 76
+  },
+  {
+    "stream": "https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8",
+    "icon": "https://i.imgur.com/7KVFCrQ.png",
+    "name": "Rede Família (720p) [Not 24/7]",
+    "number": 77
+  },
+  {
+    "stream": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "icon": "https://i.imgur.com/yvxG9m5.png",
+    "name": "Rede Gospel (720p) [Not 24/7]",
+    "number": 78
+  },
+  {
+    "stream": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
+    "icon": "https://i.imgur.com/cqD6DNY.png",
+    "name": "Rede Mão Amiga (480p) [Not 24/7]",
+    "number": 79
+  },
+  {
+    "stream": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8",
+    "icon": "https://i.imgur.com/Tgov03S.jpg",
+    "name": "Rede Minas (1080p) [Not 24/7]",
+    "number": 80
+  },
+  {
+    "stream": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8",
+    "icon": "https://i.imgur.com/nc95BPy.png",
+    "name": "Rede RC (720p) [Not 24/7]",
+    "number": 81
+  },
+  {
+    "stream": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
+    "icon": "https://i.imgur.com/vvrCWVo.jpg",
+    "name": "Rede Século 21 (1080p) [Not 24/7]",
+    "number": 82
+  },
+  {
+    "stream": "https://hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8",
+    "icon": "https://i.imgur.com/enpAJ7T.png",
+    "name": "Rede TV! ES (720p)",
+    "number": 83
+  },
+  {
+    "stream": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8",
+    "icon": "https://i.imgur.com/Cnc1Mqo.png",
+    "name": "Rede TV! Pampa (720p) [Not 24/7]",
+    "number": 84
+  },
+  {
+    "stream": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/512px-Rede_Vida_logo.png",
+    "name": "Rede Vida (720p) [Not 24/7]",
+    "number": 85
+  },
+  {
+    "stream": "https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8",
+    "icon": "https://i.imgur.com/ZJgD38F.png",
+    "name": "RedeTV! Tocantins (720p) [Not 24/7]",
+    "number": 86
+  },
+  {
+    "stream": "https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8",
+    "icon": "https://i.imgur.com/8fGmJWA.png",
+    "name": "RedeTV! Tocantins (720p) [Not 24/7]",
+    "number": 87
+  },
+  {
+    "stream": "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
+    "icon": "https://i.imgur.com/cyfu3qP.png",
+    "name": "Retrô Cartoon (480p) [Not 24/7]",
+    "number": 88
+  },
+  {
+    "stream": "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8",
+    "icon": "https://i.imgur.com/XJGki3v.png",
+    "name": "RT Documentary (1080p) [Geo-blocked]",
+    "number": 89
+  },
+  {
+    "stream": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "name": "RT en Español (1080p) [Geo-blocked]",
+    "number": 90
+  },
+  {
+    "stream": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "icon": "https://i.imgur.com/tyXIHlj.png",
+    "name": "RT News (1080p) [Geo-blocked]",
+    "number": 91
+  },
+  {
+    "stream": "https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8",
+    "icon": "https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",
+    "name": "San Isidro TV (360p) [Not 24/7]",
+    "number": 92
+  },
+  {
+    "stream": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
+    "icon": "https://i.imgur.com/KxYsq1d.png",
+    "name": "Santa Cecilia TV (288p) [Not 24/7]",
+    "number": 93
+  },
+  {
+    "stream": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
+    "icon": "https://i.imgur.com/uAze3CD.png",
+    "name": "SBT Rede Massa (720p) [Not 24/7]",
+    "number": 94
+  },
+  {
+    "stream": "https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8",
+    "icon": "https://i.imgur.com/IUDRW8l.png",
+    "name": "SBT TV Jornal Caruaru (720p) [Not 24/7]",
+    "number": 95
+  },
+  {
+    "stream": "https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8",
+    "icon": "https://pa-str.srvsite.com/arquivos/5459/cabecalho-5459-20200226161907.png",
+    "name": "SBT TV Jornal Recife (720p) [Not 24/7]",
+    "number": 96
+  },
+  {
+    "stream": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png",
+    "name": "Sea Today (720p) [Geo-blocked]",
+    "number": 97
+  },
+  {
+    "stream": "http://live.impresa.pt/live/sicint/sicint.m3u8",
+    "icon": "https://i.imgur.com/UgJ5lac.png",
+    "name": "SIC Internacional (720p)",
+    "number": 98
+  },
+  {
+    "stream": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8",
+    "icon": "https://i.imgur.com/idKogRi.png",
+    "name": "Ski TV (1080p) [Not 24/7]",
+    "number": 99
+  },
+  {
+    "stream": "https://sofy-ger-samsung.amagi.tv/playlist.m3u8",
+    "icon": "https://i.imgur.com/Srxa6cR.png",
+    "name": "Sofy TV (720p)",
+    "number": 100
+  },
+  {
+    "stream": "https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8",
+    "icon": "https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png",
+    "name": "Tastemade Brasil (1080p)",
+    "number": 101
+  },
+  {
+    "stream": "http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8",
+    "icon": "",
+    "name": "TELE CINE ACTION (720p)",
+    "number": 102
+  },
+  {
+    "stream": "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8",
+    "icon": "https://i.imgur.com/hBaG4Ce.png",
+    "name": "Terra Viva (720p) [Not 24/7]",
+    "number": 103
+  },
+  {
+    "stream": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
+    "icon": "https://i.imgur.com/JlOLuEk.png",
+    "name": "TNT Sports 2 Brasil (720p) [Not 24/7]",
+    "number": 104
+  },
+  {
+    "stream": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8",
+    "icon": "https://i.imgur.com/LFSMbpN.png",
+    "name": "TNT Sports 3 Brasil (720p)",
+    "number": 105
+  },
+  {
+    "stream": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png",
+    "name": "TNT Sports 4 Brasil (720p) [Not 24/7]",
+    "number": 106
+  },
+  {
+    "stream": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png",
+    "name": "TNT Sports 5 Brasil (720p) [Not 24/7]",
+    "number": 107
+  },
+  {
+    "stream": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",
+    "name": "TRT World (720p) [Not 24/7]",
+    "number": 108
+  },
+  {
+    "stream": "https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8",
+    "icon": "https://i.imgur.com/1pZUGb4.png",
+    "name": "TV Aberta (1080p) [Not 24/7]",
+    "number": 109
+  },
+  {
+    "stream": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+    "icon": "https://www.almg.gov.br/export/sites/default/biblioteca/imagens/logo_facebook.png",
+    "name": "TV ALMG (720p)",
+    "number": 110
+  },
+  {
+    "stream": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",
+    "name": "TV Aparecida (1080p) [Not 24/7]",
+    "number": 111
+  },
+  {
+    "stream": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
+    "icon": "https://i.imgur.com/VqIzaFz.png",
+    "name": "TV Birigui (320p)",
+    "number": 112
+  },
+  {
+    "stream": "http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8",
+    "icon": "https://www.tvbno.com.br/images/LOGOTIPO-BNO-1.png",
+    "name": "TV BNO (270p) [Not 24/7]",
+    "number": 113
+  },
+  {
+    "stream": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
+    "icon": "https://i.imgur.com/vLpm8tN.png",
+    "name": "TV BRICS Portuguese (1080p)",
+    "number": 114
+  },
+  {
+    "stream": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "icon": "https://i.imgur.com/UpV2PRk.png",
+    "name": "TV Câmara 2 (1080p) [Not 24/7]",
+    "number": 115
+  },
+  {
+    "stream": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "icon": "https://i.imgur.com/UpV2PRk.png",
+    "name": "TV Câmara (1080p)",
+    "number": 116
+  },
+  {
+    "stream": "https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8",
+    "icon": "",
+    "name": "TV Camara de Sao Paulo (720p) [Not 24/7]",
+    "number": 117
+  },
+  {
+    "stream": "https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8",
+    "icon": "https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png",
+    "name": "TV Carioca (720p)",
+    "number": 118
+  },
+  {
+    "stream": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8",
+    "icon": "https://i.imgur.com/mbw27tW.png",
+    "name": "TV Cidade Canal 9 (720p) [Not 24/7]",
+    "number": 119
+  },
+  {
+    "stream": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
+    "icon": "https://i.imgur.com/jaaGxnd.png",
+    "name": "TV Cidade de Petrópolis (1080p) [Not 24/7]",
+    "number": 120
+  },
+  {
+    "stream": "http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8",
+    "icon": "https://i.imgur.com/bEoN2tt.png",
+    "name": "TV Cinec (240p) [Not 24/7]",
+    "number": 121
+  },
+  {
+    "stream": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
+    "icon": "https://i.imgur.com/W1LutVP.png",
+    "name": "TV Destak (360p)",
+    "number": 122
+  },
+  {
+    "stream": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
+    "icon": "https://i.imgur.com/uBntXf1.png",
+    "name": "TV Diário do Sertão (720p)",
+    "number": 123
+  },
+  {
+    "stream": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
+    "icon": "https://i.imgur.com/4LG6sA0.png",
+    "name": "TV Evangelizar (480p)",
+    "number": 124
+  },
+  {
+    "stream": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "icon": "https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png",
+    "name": "TV Galega Blumenau (720p) [Not 24/7]",
+    "number": 125
+  },
+  {
+    "stream": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
+    "icon": "https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png",
+    "name": "TV Gideoes (1080p) [Not 24/7]",
+    "number": 126
+  },
+  {
+    "stream": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/512px-TV_Mackenzie_logo.svg.png",
+    "name": "TV Mackenzie (480p) [Not 24/7]",
+    "number": 127
+  },
+  {
+    "stream": "https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8",
+    "icon": "https://i.imgur.com/2Pg0baJ.png",
+    "name": "TV MAX (720p) [Not 24/7]",
+    "number": 128
+  },
+  {
+    "stream": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/512px-Logotipo_da_TV_Metr%C3%B3pole.png",
+    "name": "TV Metropole (720p) [Not 24/7]",
+    "number": 129
+  },
+  {
+    "stream": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
+    "icon": "https://i.imgur.com/j7EJvHr.png",
+    "name": "TV Mon (720p)",
+    "number": 130
+  },
+  {
+    "stream": "https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8",
+    "icon": "https://i.imgur.com/rBnDBi9.png",
+    "name": "TV Pai Eterno (480p) [Not 24/7]",
+    "number": 131
+  },
+  {
+    "stream": "https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8",
+    "icon": "https://i.imgur.com/0FOmktl.png",
+    "name": "TV Pantanal MS (720p) [Not 24/7]",
+    "number": 132
+  },
+  {
+    "stream": "http://200.189.113.201/hls/tve.m3u8",
+    "icon": "https://i.imgur.com/3lxkJxb.png",
+    "name": "TV Paraná Turismo (720p) [Not 24/7]",
+    "number": 133
+  },
+  {
+    "stream": "http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8",
+    "icon": "https://tvpocos.com.br/wp-content/uploads/2017/04/logo_branca_125.png",
+    "name": "TV Poços (192p) [Not 24/7]",
+    "number": 134
+  },
+  {
+    "stream": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "icon": "https://i.imgur.com/Jyw5BB2.png",
+    "name": "TV Santa Cruz (720p) [Not 24/7]",
+    "number": 135
+  },
+  {
+    "stream": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "icon": "https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png",
+    "name": "TV Sol Comunidade (480p) [Not 24/7]",
+    "number": 136
+  },
+  {
+    "stream": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "icon": "https://i.imgur.com/eHibp1L.png",
+    "name": "TV Terceiro Anjo (360p) [Not 24/7]",
+    "number": 137
+  },
+  {
+    "stream": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+    "icon": "https://i.imgur.com/Yp3dbJo.png",
+    "name": "TV UFG (720p) [Not 24/7]",
+    "number": 138
+  },
+  {
+    "stream": "http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/7/72/Logo_da_TV_Unisantos.png",
+    "name": "TV UniSantos (240p) [Not 24/7]",
+    "number": 139
+  },
+  {
+    "stream": "https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8",
+    "icon": "https://i.imgur.com/1mK39TC.png",
+    "name": "TV Verdes Campos (360p) [Not 24/7]",
+    "number": 140
+  },
+  {
+    "stream": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",
+    "name": "TVE RS (1080p)",
+    "number": 141
+  },
+  {
+    "stream": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "icon": "https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png",
+    "name": "TVE RS (1080p) [Not 24/7]",
+    "number": 142
+  },
+  {
+    "stream": "https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8",
+    "icon": "https://i.imgur.com/vstHOYx.png",
+    "name": "TVídeoNews (720p) [Not 24/7]",
+    "number": 143
+  },
+  {
+    "stream": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "icon": "https://i.imgur.com/Ns3WrOQ.png",
+    "name": "TVM Internacional (480p) [Not 24/7]",
+    "number": 144
+  },
+  {
+    "stream": "http://cdn.tvmatic.net/comedy.m3u8",
+    "icon": "https://i.imgur.com/l5PBcKN.png",
+    "name": "TVMatic Comedy (720p)",
+    "number": 145
+  },
+  {
+    "stream": "http://cdn.tvmatic.net/crafts.m3u8",
+    "icon": "https://i.imgur.com/l5PBcKN.png",
+    "name": "TVMatic Crafts (720p)",
+    "number": 146
+  },
+  {
+    "stream": "http://cdn.tvmatic.net/facebook.m3u8",
+    "icon": "https://i.imgur.com/l5PBcKN.png",
+    "name": "TVMatic Facebook (720p)",
+    "number": 147
+  },
+  {
+    "stream": "http://cdn.tvmatic.net/fight.m3u8",
+    "icon": "https://i.imgur.com/l5PBcKN.png",
+    "name": "TVMatic Fight (720p)",
+    "number": 148
+  },
+  {
+    "stream": "http://cdn.tvmatic.net/funny.m3u8",
+    "icon": "https://i.imgur.com/l5PBcKN.png",
+    "name": "TVMatic Funny (720p)",
+    "number": 149
+  },
+  {
+    "stream": "http://cdn.tvmatic.net/tiktok.m3u8",
+    "icon": "https://i.imgur.com/l5PBcKN.png",
+    "name": "TVMatic TikTok (720p)",
+    "number": 150
+  },
+  {
+    "stream": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+    "icon": "https://i.imgur.com/lPyJhBN.png",
+    "name": "UN Web TV (540p)",
+    "number": 151
+  },
+  {
+    "stream": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
+    "icon": "https://i.imgur.com/GmA5uuk.png",
+    "name": "UniTV Porto Alegre (480p)",
+    "number": 152
+  },
+  {
+    "stream": "https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8",
+    "icon": "https://i.imgur.com/JyslMHb.jpg",
+    "name": "World Fashion Channel International (1080p)",
+    "number": 153
+  },
+  {
+    "stream": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
+    "icon": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
+    "name": "World Poker Tour (1080p) [Not 24/7]",
+    "number": 154
+  },
+  {
+    "stream": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "icon": "https://i.imgur.com/TxdOyKS.png",
+    "name": "Yeeaah! (720p) [Not 24/7]",
+    "number": 155
+  }
+]

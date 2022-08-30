@@ -1,0 +1,61 @@
+.home {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.header {
+  padding: 0 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+  height: 25vh;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10%;
+  width: 100vw;
+  min-height: 75vh;
+}
+
+.title {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #000000;
+}
+
+.channels {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.channel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  width: 400px;
+  height: 225px;
+  background-color: #d9d9d9;
+}
+
+.icon {
+  width: 150px;
+}

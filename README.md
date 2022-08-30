@@ -15,7 +15,7 @@
 
 - [x] Live a TV channel
 
-- [x] Add animations to the UI 
+- [ ] Add animations to the UI 
 
 - [ ] Search a TV channel
 

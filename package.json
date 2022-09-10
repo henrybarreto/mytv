@@ -7,7 +7,7 @@
   "scripts": {
     "terminal": "node src/backend/terminal.js",
     "build": "preact build",
-    "serve": "sirv build --port 8080 --cors --single && npm run term",
+    "serve": "sirv build --port 8080 --cors --single",
     "dev": "preact watch && npm run term",
     "lint": "eslint src",
     "fix": "prettier --write ."

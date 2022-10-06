@@ -28,7 +28,13 @@ const Console = () => {
 
   return (
     <>
+
+      <div>
+      <button class="button-2" role="button" ><a href="/home">Home</a></button>
+      </div>
       <div id="terminal" class={style.terminal} />
+      
+      
     </>
   );
 };

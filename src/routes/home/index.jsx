@@ -10,7 +10,7 @@ const Home = (props) => {
       <div class={style.home}>
         <header class={style.header}>
           <aside class={style.header_left}>
-            <img class={style.logo} src="../../../assets/logo.svg" alt="MyTV's Logo" />
+            <img class={style.logo} src="../../../assets/logo_black.svg" alt="MyTV's Logo" />
           </aside>
         </header>
 

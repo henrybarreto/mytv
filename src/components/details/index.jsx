@@ -14,7 +14,7 @@ const Details = (props) => {
           <span class={style.name}>{name}</span>
         </section>
         <section class={style.details_right}>
-          <Link href="/home">
+          <Link href="/">
             <img class={style.logo} src="../../../assets/logo.svg" />
           </Link>
         </section>

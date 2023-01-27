@@ -9,19 +9,11 @@
 
 ## Features
 
-- [x] Load a playlist
+- [x] Load m3u8 playlist as JSON
 
-- [x] Live a TV channel
+- [x] Play m3u8 stream
 
-- [ ] Add animations to the UI 
-
-- [ ] Keyboard control
-
-- [ ] About page
-
-- [ ] Donate page 
-
-- [ ] Settings
+- [ ] Multimedia control for keyboard
 
 ## Screenshots
 

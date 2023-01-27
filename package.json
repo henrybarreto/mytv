@@ -1,12 +1,11 @@
 {
   "name": "mytv",
+  "description": "MyTV is a web based IPTV player",
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
-    "kiosk": "chromium http://localhost:8080/home --kiosk || firefox http://localhost:8080/home --kiosk",
-    "backend": "node src/backend/index.js",
     "build": "preact build",
     "serve": "sirv build --port 8080 --cors --single",
     "dev": "preact watch && npm run term",
@@ -22,7 +21,7 @@
   "devDependencies": {
     "enzyme": "^3.10.0",
     "enzyme-adapter-preact-pure": "^2.0.0",
-    "eslint": "^6.0.1",
+    "eslint": "^6.8.0",
     "eslint-config-preact": "^1.1.0",
     "jest": "^24.9.0",
     "jest-preset-preact": "^1.0.0",

@@ -15,7 +15,7 @@ const Details = (props) => {
         </section>
         <section class={style.details_right}>
           <Link href="/home">
-            <img class={style.logo} src="../../assets/logo.svg" />
+            <img class={style.logo} src="../../../assets/logo.svg" />
           </Link>
         </section>
       </div>

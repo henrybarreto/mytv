@@ -1,7 +1,6 @@
 import { useEffect, useState } from "preact/hooks";
 import Details from "../../components/details/index.jsx";
 
-import channels from "../../../channels.json";
 import style from "./style.css";
 
 const Channel = (props) => {
@@ -9,9 +8,11 @@ const Channel = (props) => {
     console.error("channel invalid");
   }
 
-  const channel = channels[props.channel - 1];
+  const [isFound, setFound] = useState(true);
+
+  const channel = props.channels[props.channel - 1];
   if (channel === {} || channel === undefined) {
-    console.error("channel not found");
+    setFound(false);
   }
 
   const [isError, setError] = useState(false);
@@ -80,7 +81,6 @@ const Channel = (props) => {
     }, 3000);
   }, [isDetailsOpen]);
 
-  // TODO: add message whe nno channel is selected.
   return (
     <div class={style.screen}>
       {isDetailsOpen && (
@@ -90,13 +90,19 @@ const Channel = (props) => {
           number={channel.number}
         />
       )}
-      {!isLoaded && <div class={style.loader} />}
-      {isError && (
-        <>
-          <div class={style.error} />
-          <span class={style.error_message}>Could not loading the channel</span>
-        </>
+      {!isFound && (
+          <>
+            <div class={style.error} />
+            <span class={style.error_message}>Channel not found</span>
+          </>
       )}
+      {(isError && isFound) && (
+          <>
+            <div class={style.error} />
+            <span class={style.error_message}>Could not loading the channel</span>
+          </>
+      )}
+      {(!isLoaded && !isError && isFound) && <div class={style.loader} />}
 
       <video id="video" class={style.video} autoPlay onClick={onClick} />
     </div>

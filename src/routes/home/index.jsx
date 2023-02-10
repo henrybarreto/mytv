@@ -9,16 +9,16 @@ const Home = (props) => {
     <>
       <div class={style.home}>
         <header class={style.header}>
-          <aside class={style.header_left}>
-            <img class={style.logo} src="../../../assets/logo_black.svg" alt="MyTV's Logo" />
-          </aside>
+          <div class={style.logo}>
+            <img class={style.logo_img} src="../../../assets/logo_black.svg" alt="MyTV's Logo" />
+          </div>
         </header>
 
         <main class={style.main}>
           <span class={style.title}>Channels</span>
           <ul class={style.channels}>
             {channels.map((channel) => (
-              <li>
+              <li key={channel.number}>
                 <Link class={style.channel} href={`/channel/${channel.number}`}>
                   <img
                     class={style.icon}

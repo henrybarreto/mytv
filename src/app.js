@@ -1,36 +1,50 @@
 import { Router } from "preact-router";
+import {useEffect, useState} from "preact/hooks";
 
 import Home from "./routes/home/index.jsx";
 import Channel from "./routes/channel/index.jsx";
+import parser from "iptv-playlist-parser";
+import axios from "axios";
 
-const channels =  [ // TODO: get channels from a API.
-    {
-        "stream": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
-        "icon": "https://i.imgur.com/xbkYDeg.png",
-        "name": "1001 Noites (720p) [Not 24/7]",
-        "number": 1
-    },
-    {
-        "stream": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
-        "icon": "https://i.imgur.com/wULpnYR.png",
-        "name": "All Sports (720p)",
-        "number": 2
-    },
-    {
-        "stream": "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
-        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",
-        "name": "Al Jazeera English (1080p)",
-        "number": 3
+import envs from "../envs.json";
+
+const App = () => {
+  const [isLoaded, setLoaded] = useState(false);
+  const [channels, setChannels] = useState([]);
+
+  useEffect(() => {
+    if (localStorage.getItem("channels") === "" || localStorage.getItem("channels") == null) {
+      axios.get(envs.playlist).then((response) => {
+        let channels = parser.parse(response.data).items.map((item, index) => {
+          console.log(item)
+          return {
+            stream: item.url,
+            icon: item.tvg.logo,
+            name: item.name,
+            number: index+1,
+          };
+        });
+
+        setChannels(channels);
+        localStorage.setItem("channels", JSON.stringify(channels));
+        setLoaded(true);
+      })
+    } else {
+      setChannels(JSON.parse(localStorage.getItem("channels")));
+      setLoaded(true);
     }
-]
+  })
 
-const App = () => (
-  <div id="app">
-    <Router>
-      <Home path="/" channels={channels} />
-      <Channel path="/channel/:channel" channels={channels} />
-    </Router>
-  </div>
-);
+  return (
+      <div id="app">
+        {isLoaded &&
+          <Router>
+            <Home path="/" channels={channels} />
+            <Channel path="/channel/:channel" channels={channels} />
+          </Router>
+        }
+      </div>
+  );
+}
 
 export default App;
